@@ -1,5 +1,5 @@
 {
-    "name": "moodlehq/behat-extension",
+    "name": "KevinLaveto/behat-extension",
     "description": "Moodle behat extension",
     "keywords": ["Moodle", "BDD", "Behat"],
     "type": "library",
@@ -16,7 +16,13 @@
             "email": "andrew@nicols.co.uk",
             "homepage": "http://moodle.com",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Kevin Ernst",
+            "email": "kevin@laveto.nl",
+            "homepage": "http://laveto.nl",
+            "role": "Developer"
+        },
     ],
     "repositories": [
         {
